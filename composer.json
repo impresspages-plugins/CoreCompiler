@@ -2,7 +2,7 @@
   "name": "impresspages/plugin-core-compiler",
   "version": "1.00",
   "autoload": {
-    "psr-4": {"Plugin\\CoreCompiler\\": "/"i}
+    "psr-4": {"Plugin\\CoreCompiler\\": "/"}
   },
   "minimum-stability": "stable",
   "license": [
